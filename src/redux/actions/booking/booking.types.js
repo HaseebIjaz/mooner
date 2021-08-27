@@ -1,0 +1,2 @@
+export const GET_USER_DETAIL="GET_USER_DETAIL";
+export const GET_USER_BOOKING="GET_USER_BOOKING";
